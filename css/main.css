@@ -16,3 +16,49 @@ li a{
   margin: 1.5rem;
 
 }
+
+body {
+  margin: 0;
+}
+
+section {
+  background-color: #ccc;
+  padding: 2rem;
+}
+
+h2 {
+  margin: 0 0 1.5rem;
+  text-align: center;
+}
+
+ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+li {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 0 0 1.5rem;
+}
+
+img {
+  width: 5em;
+  margin-right: 1.5rem;
+}
+
+hgroup {
+  width: 16em;
+}
+
+h3,
+h4 {
+  margin: 0;
+}
+
+p {
+  max-width: 24em;
+  margin: 0 auto 0 0;
+}
